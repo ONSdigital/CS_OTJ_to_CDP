@@ -1,1 +1,2 @@
-file_name|file_checksum|file_unique|preprocess_outcome
+file_name,file_checksum,file_unique,preprocess_outcome,processed_timestamp,session_id
+OTJ Log 2026 03 03 Tom.csv,e620c0892a6badaa32f478c51b2e481d,True,preprocessed_ok,2026-04-20T13:35:41.936634+00:00,2026-04-20T13:35:41.926217+00:00
