@@ -10,21 +10,6 @@ This module defines:
 These are treated as contracts between pipeline stages.
 """
 
-EXPECTED_OTJ_COLUMNS_V1 = [
-    "Date",
-    "Start",
-    "End",
-    "Duration",
-    "Status",
-    "Activity",
-    "Description",
-    "Competencies",
-    "Edit",
-    "Coach Notes",
-    "Delete",
-    "Submission History",
-]
-
 IMPORT_LOG_COLUMNS = [
     "file_name",
     "file_checksum",

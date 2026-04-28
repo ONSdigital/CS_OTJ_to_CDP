@@ -4,7 +4,7 @@ Helpers for loading and persisting import and session logs.
 """
 
 import pandas as pd
-from etl_01_ingest.schemas import IMPORT_LOG_COLUMNS, SESSION_LOG_COLUMNS
+from etl_01_ingest.schemas import SESSION_LOG_COLUMNS, IMPORT_LOG_COLUMNS
 from etl_01_ingest.paths import IMPORT_LOG_FILE, SESSION_LOG_FILE
 
 
